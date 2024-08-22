@@ -55,4 +55,4 @@ Contact
 For any inquiries, please reach out to the project maintainer:
 
 Zacharia Ndung'u
-Ndunguzachary24@gmail.com
+ndunguzachary24@gmail.com
